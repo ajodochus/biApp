@@ -1,0 +1,20 @@
+2015-12-13 13:42:31,664 INFO  [Log] **************************************************************************************** 
+2015-12-13 13:42:31,664 INFO  [Log] **************************************************************************************** 
+2015-12-13 13:42:31,664 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 AddProductsTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-12-13 13:42:31,664 INFO  [Log] **************************************************************************************** 
+2015-12-13 13:42:31,664 INFO  [Log] **************************************************************************************** 
+2015-12-13 13:42:32,336 INFO  [Log] Excel sheet opened 
+2015-12-13 13:42:32,336 INFO  [Log] Total number of Row used return as < 2 >. 
+2015-12-13 13:42:47,775 INFO  [Log] OpenBrowser with entry Point: http://store.demoqa.com/products-page/product-category/accessories/ 
+2015-12-13 13:42:47,974 INFO  [Log] Add to Cart button is found for Product 1 
+2015-12-13 13:42:48,182 INFO  [Log] click on add Product 2 
+2015-12-13 13:42:48,184 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             AddProductsTest-E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-12-13 13:42:48,184 INFO  [Log] X 
+2015-12-13 13:42:48,185 INFO  [Log] X 
+2015-12-13 13:42:48,185 INFO  [Log] X 
+2015-12-13 13:42:48,185 INFO  [Log] X 
+2015-12-13 13:42:48,557 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             ProductSearchTest-E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-12-13 13:42:48,558 INFO  [Log] X 
+2015-12-13 13:42:48,558 INFO  [Log] X 
+2015-12-13 13:42:48,559 INFO  [Log] X 
+2015-12-13 13:42:48,560 INFO  [Log] X 
