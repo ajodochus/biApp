@@ -19,13 +19,8 @@ public class Abstract_Page {
 		Abstract_Page.driver = driver;
 		Abstract_Page.bResult = true;
 	}
-	public  Abstract_Page(RemoteWebDriver driver){
-		Abstract_Page.driver = rwdriver;
+	public  Abstract_Page(RemoteWebDriver rwdriver){
+		Abstract_Page.rwdriver = rwdriver;
 		Abstract_Page.bResult = true;
-	}
-	
-
-	
-
-
+	}	
 }

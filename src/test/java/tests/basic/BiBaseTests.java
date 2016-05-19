@@ -5,6 +5,7 @@ import org.testng.annotations.Test;
 
 import pages.Abstract_Page;
 import pages.Login_Page;
+import pages.Login_Landing_Page;
 import utility.Log;
 import utility.Utils;
 
@@ -28,6 +29,9 @@ public class BiBaseTests {
 			
 			
 			Login_Page login_Page = new Login_Page();
+			login_Page.login_with_valid_user();
+			Login_Landing_Page login_Landing_Page = new Login_Landing_Page();
+			
 			
 
 			Log.closeLogger();
